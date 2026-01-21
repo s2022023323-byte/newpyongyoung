@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="pyongyangracer">
+  <review>
+    <reviewtitle>Works Perfectly!</reviewtitle>
+    <reviewbody>The only reason I am giving four stars is because some people might be offended of this.</reviewbody>
+    <stars>4</stars>
+    <reviewer>ZugPlayz</reviewer>
+    <reviewdate>2023-06-11 01:32:18</reviewdate>
+    <createdate>2023-06-11 01:32:18</createdate>
+    <reviewer_itemname>@zugplayz</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>Works freat</reviewtitle>
+    <reviewbody>All the assets are there to play the game. I use standalone flash player.</reviewbody>
+    <stars>5</stars>
+    <reviewer>22BE120F93</reviewer>
+    <reviewdate>2024-05-07 22:55:44</reviewdate>
+    <createdate>2024-05-07 22:55:44</createdate>
+    <reviewer_itemname>@22be120f93</reviewer_itemname>
+  </review>
+  <info>
+    <num_reviews>2</num_reviews>
+    <avg_rating>4.50</avg_rating>
+  </info>
+</reviews>
